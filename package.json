@@ -1,0 +1,19 @@
+{
+  "name": "reservas-biblio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "cron": "^1.2.1",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  },
+  "author": "Pedro Lanzagorta",
+  "license": "ISC"
+}

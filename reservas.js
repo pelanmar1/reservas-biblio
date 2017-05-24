@@ -1,0 +1,1 @@
+var ultimaActualizacion = 'Ultima actualización: 2/5/2017, 1:25:41 AM';var estadoActualizacion = 'Informe de última actualización: No puede extenderse la fecha de vencimiento.';module.exports.ultimaActualizacion = ultimaActualizacion;module.exports.estadoActualizacion = estadoActualizacion;
